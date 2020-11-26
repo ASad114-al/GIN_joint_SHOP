@@ -1,23 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Tinos&family=Yantramanav:wght@400;500&display=swap');
 /* font-family: 'Tinos', serif;
 font-family: 'Yantramanav', sans-serif; */
+
+
+/* Navigation */
 .nav {
     background: #312929;
     height: 4vh;
     color: white;
     height: 48;
 	width: 100%;
-
 	color: white;
 	padding: 6px 10px;
 	display: flex;
-    
-  
-
-background: #312929;
-    
-   
-
+    background: #312929;
 }
 ul
 {
@@ -26,20 +22,10 @@ ul
     width: 80%;
     text-align: center;
     color: white; 
-   
-    
     color: #FFFFFF;
-    
-    
-    
-   
 }
 li{
     list-style-type: none;
-    
-    
-   
-    
 }
 a
 {
@@ -50,8 +36,9 @@ a
 a:hover
 {
     color:  #BB7043;
-    
 }
+/* Body Contact page */
+
 .firstcont_section{
     display: grid;
     grid-template-columns: repeat(2,1fr);
@@ -67,10 +54,6 @@ a:hover
 {
     margin-left: 37%;
     margin-top: 15%;
-    
-  
-    
-  
 }
 h1{
    
@@ -83,15 +66,10 @@ letter-spacing: 0.5px;
 text-align: left;
 color: #fff;
 margin-top: -2%
-
-    
 }
 #text_p
 {
-   /*
-  
-    font-family: 'Tinos', serif; */
-    font-family: Roboto;
+font-family: Roboto;
 font-size: 21px;
 font-style: normal;
 font-weight: 400;
@@ -113,6 +91,7 @@ margin-top: -5%;
     width: 1920px;
     height: 1013px;
 }
+
 #earth_img_p
 {
     background: #C4C4C4;
@@ -122,10 +101,7 @@ height: 300px;
 font-size: 83px;
 text-align: center;
 padding-top: 3%;
-
-    
 }
-
 .section3
 {
     display: grid;
@@ -133,8 +109,6 @@ padding-top: 3%;
     background: #BB7043;
     width: 1920px;
     height: 815px;
-    
-
 }
 
 #info_section3{
@@ -153,10 +127,7 @@ padding-top: 3%;
   line-height: 27px;
   letter-spacing: 0em;
   text-align: left;
-  
-
 } 
-
 .Hours
 {
     
@@ -166,18 +137,6 @@ padding-top: 3%;
     font-family: Roboto;
     font-size: 18px;
     margin-top: -3%;
-
-
-/* 
-
-
-font-style: normal;
-font-weight: 400;
-line-height: 27px;
-letter-spacing: 0em; */
-
-
-
 }
 
 h2{
@@ -222,8 +181,6 @@ text-align: left;
 
 }
 
-
-
 #massege_id
 {
     width: 750px;
@@ -254,7 +211,6 @@ color: #fff;
 text-align: center;
 
 }
-
 /* footer */
 
  #footer_img {
@@ -337,25 +293,18 @@ text-align: center;
  
 #coming_h1
 {
-    /* display: flex;
-    justify-content: center;
-  padding-top: 30%; */
   position: absolute;
 width: 1253px;
 height: 18px;
 left: 393px;
 top: 1602px;
-
 font-family: Roboto;
 font-style: normal;
 font-weight: normal;
 font-size: 8.6rem;
 line-height: 18px;
-
-
 letter-spacing: 0.3px;
 text-transform: uppercase;
-
 color: #000000;
 
 }
