@@ -1,4 +1,5 @@
-import Footer1 from './Footer1';
+// import Footer1 from './Footer1';
+
 
 
 const Home = () => {
