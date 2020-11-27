@@ -1,12 +1,12 @@
 const Section3 = () => {
     return ( 
         <div className='section3'>
-            <div id='info_section3'>
+            <div className='info_section3'>
                 <p id='p-earth'>Get in touch</p>
-                <h2>132 9th Avenue <br/> New York, NY 10011 <br/> 646-559-1671 <br/> info@btgnyc.com</h2>
-                <br/>
-                <br/>
-                <p>Hours of Operation</p>
+                <h2 id='York'>132 9th Avenue <br/> New York, NY 10011 <br/> 646-559-1671 <br/> info@btgnyc.com</h2>
+                
+               
+                <p id='Operation'>Hours of Operation</p>
             
 
                 <div className='Hours'>

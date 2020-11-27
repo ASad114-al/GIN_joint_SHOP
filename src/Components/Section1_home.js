@@ -4,7 +4,7 @@ const Section1 = () => {
         <article className='secound'> 
             <div className='secound-info'>
                <p>ABOUT</p>
-               <h3 id='the-srory'>THE STORY  OF BATHTUB GIN</h3> 
+               <h3 id='the-srory'>THE STORY  OF  BATHTUB GIN</h3> 
                <p id='gin-text'>Gin was the predominant drink in the United States during the Prohibition-Era 1920's and many variations were created. "Bathtub gin" was developed in response to the poor-quality of alcohol that was available at the time.</p>
                <button>Read More</button>
             </div >

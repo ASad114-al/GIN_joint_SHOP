@@ -2,7 +2,7 @@ import Footer2 from './Footer2';
 const Footer1 = () => {
     return ( 
         <section className='footer'>
-            <nav>
+            <article>
               <div id="footer_img"></div>
                 <div id="find_us">
                     <h3>Find Us</h3>
@@ -14,7 +14,7 @@ const Footer1 = () => {
                 </div> 
                 <div>
                 <h3>Hours of Operation</h3>
-                 <div className="Hours">
+                 <div className="Hours_footer">
                     <p>Monday</p>
                     <p>8AM - 4PM</p>
                     <p>Tuesday - Friday</p>
@@ -25,7 +25,7 @@ const Footer1 = () => {
                     <p>9AM - 4PM</p>
                     </div> 
                 </div>
-            </nav>
+            </article>
         
            
             <Footer2 />
