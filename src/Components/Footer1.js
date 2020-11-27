@@ -1,4 +1,4 @@
-//import Footer2 from './Footer2';
+import Footer2 from './Footer2';
 const Footer1 = () => {
     return ( 
         <section className='footer'>
@@ -28,7 +28,7 @@ const Footer1 = () => {
             </nav>
         
            
-            {/* <Footer2 /> */}
+            <Footer2 />
            
         </section>
      );

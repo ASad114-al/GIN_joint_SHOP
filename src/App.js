@@ -9,6 +9,7 @@ import {
 } from "react-router-dom";
   import Navigtion from './Components/Navigation';
  import Footer1 from './Components/Footer1';
+ 
  import Home from './Components/Home'
  import Contact from './Components/Contact'
  import Shop from './Components/Shop'
@@ -28,6 +29,7 @@ function App() {
       </Switch>
      
       <Footer1 />
+    
 
       
 
