@@ -161,19 +161,22 @@ button{
     
   }
   #text {
-    width:35%;
-    padding:25vh 0 15vh 14%;
+    width:65%;
+    padding:25vh ;
+    margin-left: -19%;
+    
   } 
-  h2 {
+  #hand {
     text-transform: uppercase;
     font-weight: 400;
     line-height: 3.5rem;
     margin: 5vh auto;
     width: 70%;
-    margin-left: 36%;
+    margin-left: 35%;
     letter-spacing: 0.5px;
-   
-    font-family: Roboto;
+    color: #FFFFFF;
+    padding-bottom: 1%;
+    font-family: 'Yantramanav', sans-serif;
     font-size: 84px;
     line-height: 84px;
      
