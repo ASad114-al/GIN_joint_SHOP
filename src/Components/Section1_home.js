@@ -1,4 +1,4 @@
-const Section1_home = () => {
+const Section1 = () => {
 
     return(
         <article className='secound'> 
@@ -22,4 +22,4 @@ const Section1_home = () => {
 
 }
 
-export default Section1_home
+export default Section1

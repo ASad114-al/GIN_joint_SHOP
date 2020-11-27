@@ -1,5 +1,5 @@
 import Header from './Header_home';
-import Section1_home from './Section1_home'
+import Section1 from './Section1_home'
 
 
 
@@ -7,7 +7,7 @@ const Home = () => {
     return (
         <section>
            <Header />
-           <Section1_home />
+           <Section1 />
         </section>
       );
 }
