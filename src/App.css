@@ -37,6 +37,98 @@ a:hover
 {
     color:  #BB7043;
 }
+/*   HOME PAGE */
+.first_home{
+    background: url(../src/img/bar_1.jpg)center/cover no-repeat;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    color: white;
+}
+#info_classic h1
+{
+    font-size: 6rem;
+    letter-spacing: 10px;
+    word-spacing: 30px;
+    font-weight: 900;
+}
+#info_classic h2
+{
+  margin-left: 15%;
+  font-size: 4rem;
+  letter-spacing: 10px;
+    
+}
+.secound{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    height: 100vh ;
+    background: #212121;
+}
+
+.secound-info
+{
+    width: 30%;
+    margin-left: 25% ;
+    margin-top: 25%;
+    color: azure;
+   
+    
+    
+}
+#the-srory
+{
+    font-size: 40px;
+    letter-spacing: 1px;
+    line-height: 40px;
+    font-weight: 400;
+    word-spacing: .1px;
+     font-family: Roboto;
+     color: #fff;
+     font-style: normal
+}
+
+#gin-text{
+    font-size: 1.2rem;
+}
+
+#secound-img_home
+{
+    background: url(../src/img/bar2\ 1.jpg)center/cover no-repeat;
+    margin-top: 15%;
+    margin-right: 10%; 
+    width: 100%;
+
+    
+
+}
+
+button{
+    background: #bb7043;
+    width: 40%;
+    height: 4vh;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Body Contact page */
 
 .firstcont_section{

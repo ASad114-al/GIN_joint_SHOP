@@ -10,7 +10,7 @@ import {
   import Navigtion from './Components/Navigation';
  import Footer1 from './Components/Footer1';
  
- import Home from './Components/Home'
+ import Home from './Components/Home_page'
  import Contact from './Components/Contact'
  import Shop from './Components/Shop'
 
@@ -21,7 +21,7 @@ function App() {
     <Router>
      <Navigtion />
       <Switch>
-      <Route path="/ " exact >  <Home/> </Route>
+      <Route path="/Home" exact >  <Home/> </Route>
       <Route path = "/Entertainment" > </Route>
       <Route path = "/Shop"  > <Shop/> </Route>
       <Route path = "/Events"  >   </Route>
