@@ -493,7 +493,7 @@ color: #000000;
 
 }
 
-/* Card für Jazz.js */
+/* jazzBarDJ section und Card Style */
 .info_jazz {
     background:#BB7043;
     min-height: 90vh;
@@ -543,7 +543,7 @@ color: #000000;
     text-align: center;
   }
   
-  .image h3 {
+ #date h3 {
    
     font-weight: 300;
     font-family: Roboto;
@@ -560,3 +560,42 @@ color: #000000;
     display:flex;
     justify-content: center;
   }
+
+  /* Trink Section und Card2 Style */
+
+#card2{
+  width:50%;
+  text-align: center;
+  border: 0.1px solid grey;
+  color:white;
+  padding-bottom: 5vh;
+  background: #212121;
+}
+
+
+.text{
+font-size: 2rem;
+margin: 4vh 5%;
+}
+
+#Trink{
+  display:flex;
+}
+
+#card2 div {
+  margin-top:3vh;
+  display:flex;
+  justify-content: flex-end;
+  margin-right:3%;
+  
+}
+
+#instagramIcon {
+  width: 30px;
+  
+}
+
+.text2 {
+text-transform: uppercase;
+font-weight: 300;
+}
