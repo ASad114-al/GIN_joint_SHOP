@@ -8,7 +8,6 @@ font-family: 'Yantramanav', sans-serif; */
     background: #312929;
     height: 4vh;
     color: white;
-    height: 48;
 	width: 100%;
 	color: white;
 	padding: 6px 10px;
@@ -74,9 +73,6 @@ a:hover
     margin-left: 25% ;
     margin-top: 45%;
    
-   
-    
-    
 }
 #the-srory
 {
@@ -189,23 +185,6 @@ button{
     height: 4vh;
     margin-left: 34%;
   }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* Body Contact page */
 
@@ -335,12 +314,12 @@ form
     width: 750px;
     height: 50px;
     font-family: Roboto;
-font-size: 21px;
-font-style: normal;
-font-weight: 400;
-line-height: 27px;
-letter-spacing: 0em;
-text-align: left;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0em;
+  text-align: left;
 
 }
 
